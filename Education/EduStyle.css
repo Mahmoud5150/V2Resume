@@ -1,0 +1,33 @@
+* {
+    background-color: aqua;
+}
+#h1 {
+    font-size: 50px;
+}
+#p {
+    font-size: 25px;
+}
+a {
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
+#eduH1 {
+    font-size: 50px;
+    text-align: center;
+}
+#div {
+    margin-left: 28%;
+    font-size: 25px;
+    padding: 10px;
+}
+.NestedUL {
+    display: flex;
+}
+li {
+    margin: 10px;
+}
+ul {
+    list-style: none;
+}
